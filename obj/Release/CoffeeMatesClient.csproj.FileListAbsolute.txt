@@ -1,0 +1,14 @@
+C:\Users\jtoledo\documents\visual studio 2013\Projects\CoffeeMatesClient\CoffeeMatesClient\bin\Release\CoffeeMatesClient.exe.config
+C:\Users\jtoledo\documents\visual studio 2013\Projects\CoffeeMatesClient\CoffeeMatesClient\bin\Release\CoffeeMatesClient.exe.manifest
+C:\Users\jtoledo\documents\visual studio 2013\Projects\CoffeeMatesClient\CoffeeMatesClient\bin\Release\CoffeeMatesClient.application
+C:\Users\jtoledo\documents\visual studio 2013\Projects\CoffeeMatesClient\CoffeeMatesClient\bin\Release\CoffeeMatesClient.exe
+C:\Users\jtoledo\documents\visual studio 2013\Projects\CoffeeMatesClient\CoffeeMatesClient\bin\Release\CoffeeMatesClient.pdb
+C:\Users\jtoledo\documents\visual studio 2013\Projects\CoffeeMatesClient\CoffeeMatesClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\jtoledo\documents\visual studio 2013\Projects\CoffeeMatesClient\CoffeeMatesClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\jtoledo\documents\visual studio 2013\Projects\CoffeeMatesClient\CoffeeMatesClient\obj\Release\CoffeeMatesClient.ResourceTest.resources
+C:\Users\jtoledo\documents\visual studio 2013\Projects\CoffeeMatesClient\CoffeeMatesClient\obj\Release\CoffeeMatesClient.csproj.GenerateResource.Cache
+C:\Users\jtoledo\documents\visual studio 2013\Projects\CoffeeMatesClient\CoffeeMatesClient\obj\Release\CoffeeMatesClient.exe.manifest
+C:\Users\jtoledo\documents\visual studio 2013\Projects\CoffeeMatesClient\CoffeeMatesClient\obj\Release\CoffeeMatesClient.application
+C:\Users\jtoledo\documents\visual studio 2013\Projects\CoffeeMatesClient\CoffeeMatesClient\obj\Release\CoffeeMatesClient.exe
+C:\Users\jtoledo\documents\visual studio 2013\Projects\CoffeeMatesClient\CoffeeMatesClient\obj\Release\CoffeeMatesClient.pdb
+C:\Users\jtoledo\Documents\Visual Studio 2013\Projects\CoffeeMatesClient\CoffeeMatesClient\obj\Release\CoffeeMatesClient.csprojResolveAssemblyReference.cache
